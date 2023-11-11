@@ -1,4 +1,4 @@
--------------------------------------------------**install docker**----------------------------------------------------------------------------------------------------------
+------------------------------------------------- **install docker** ----------------------------------------------------------------------------------------
 **install docker **
 
 sudo apt-get update sudo apt-get install ca-certificates curl gnupg sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg sudo chmod a+r /etc/apt/keyrings/docker.gpg
@@ -20,7 +20,7 @@ permission denied while trying to connect to the Docker daemon socket at unix://
 
 ** check docker command working or not for ubuntu user**
 
-------------------------------------------------------**docker installation  compleated**-------------------------------------------------------------------------------------
+------------------------------------------------------ **docker installation  compleated** --------------------------------------------------------------------
 
 
 
