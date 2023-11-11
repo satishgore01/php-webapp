@@ -9,5 +9,13 @@ Receiving objects: 100% (112/112), 9.17 MiB | 5.77 MiB/s, done.
 **Resolving deltas: 100% (55/55), done**.
 
 **Step 2**
+git init
+
+git add .
+
+git commint -m "project files added"
+
+**step 3**
+  **push code to your github repo**
        
 
