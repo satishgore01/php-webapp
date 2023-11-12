@@ -17,5 +17,32 @@ git commint -m "project files added"
 
 **step 3**
   **push code to your github repo**
+
+**add repository**
+
+  git remote add origin https://github.com/your-username/your-repository.git
+  
+  **eg**
+  
+  git remote add origin https://github.com/satishgore01/php-webapp.git
+
+  
+  first create clasic token and add it into linux machine. use following command to add token in linux machine.
+  go to your git repository  and add token
+  
+**syntax**
+
+  git remote set-url origin https://**username**:**token**@github.com/**username**/**repository**.git
+
+**eg.**
+  git remote set-url origin https://satishgore01:ghp_K3mxrvAe4556u4PMVNel1zO2vIAG51yF0y13l0@github.com/satishgore01/php-webapp.git
+
+**git push**
+        **git push -u origin main**
+
+
+
+ 
+
        
 
